@@ -144,7 +144,7 @@ python machine_failure_prediction.py
 <!-- https://github.com/Reeshurajesh/Real-Time-AI-ML-Based-Equipment-Failure-Prediction-/blob/457028b8b39b569f489272f10e259cb5c3759b87/Screenshot%20(83).png-->
 
 ### 2. Updated Machine Sensor Reading After 5 Seconds
-<!-- Add Second Screenshot Here -->
+<!-- https://github.com/Reeshurajesh/Real-Time-AI-ML-Based-Equipment-Failure-Prediction-/blob/3ba8ff9512e37b6b708318560c536d40ce182bf9/Screenshot%20(84).png -->
 
 
 ## 🚀 Future Enhancements
