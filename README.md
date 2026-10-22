@@ -135,7 +135,7 @@ python machine_failure_prediction.py
 
 **GitHub Python Source Code:**
 
-[View Project Source Code](PASTE_YOUR_GITHUB_SOURCE_CODE_LINK_HERE)
+[View Project Source Code](https://github.com/Reeshurajesh/Real-Time-AI-ML-Based-Equipment-Failure-Prediction-/blob/6deec5a93a35cf0b4eedf81ad57b9133c273e2ff/Real%20Time%20AI%20and%20ML%20Project%20%20Based%20Equipment%20prediction.py)
 
 
 ## 📸 Project Screenshots
