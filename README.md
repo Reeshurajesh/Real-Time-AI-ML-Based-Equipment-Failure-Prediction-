@@ -138,6 +138,15 @@ python machine_failure_prediction.py
 [View Project Source Code](PASTE_YOUR_GITHUB_SOURCE_CODE_LINK_HERE)
 
 
+## 📸 Project Screenshots
+
+### 1. Initial Machine Sensor Reading and Failure Prediction
+<!-- Add First Screenshot Here -->
+
+### 2. Updated Machine Sensor Reading After 5 Seconds
+<!-- Add Second Screenshot Here -->
+
+
 ## 🚀 Future Enhancements
 
 - Integrate real IoT sensors for live machine readings.
