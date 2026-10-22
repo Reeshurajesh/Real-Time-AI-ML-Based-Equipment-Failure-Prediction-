@@ -141,7 +141,7 @@ python machine_failure_prediction.py
 ## 📸 Project Screenshots
 
 ### 1. Initial Machine Sensor Reading and Failure Prediction
-<!-- Add First Screenshot Here -->
+<!-- https://github.com/Reeshurajesh/Real-Time-AI-ML-Based-Equipment-Failure-Prediction-/blob/457028b8b39b569f489272f10e259cb5c3759b87/Screenshot%20(83).png-->
 
 ### 2. Updated Machine Sensor Reading After 5 Seconds
 <!-- Add Second Screenshot Here -->
